@@ -41,3 +41,5 @@ class Product(BaseModel):
     def __str__(self):
         return self.name
     
+    def stock():
+        pass
